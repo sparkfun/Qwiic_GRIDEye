@@ -28631,13 +28631,13 @@ We've spent an enormous amount of time creating and checking these footprints an
 You are welcome to use this library for commercial purposes. For attribution, we ask that when you begin to sell your device using our footprint, you email us with a link to the product being sold. We want bragging rights that we helped (in a very small part) to create your 8th world wonder. We would like the opportunity to feature your device on our homepage.</description>
 <packages>
 <package name="GRIDEYE-AMG88">
-<description>&lt;h3&gt;AMG8833-GRIDEye - package for the 8x8 pixel GRIDEye Temperature Sensor&lt;/h3&gt;
+<description>&lt;h3&gt;Panasonic AMG8833 GRIDEye&lt;/h3&gt;
 &lt;p&gt;Specifications:
-&lt;ul&gt;&lt;li&gt;Pin count: 14&lt;/li&gt;
-&lt;li&gt;Pin pitch: 0.05in.&lt;/li&gt;
-&lt;li&gt;Area: 11.6mm x 8mm&lt;/li&gt;
+&lt;ul&gt;&lt;li&gt;Pin count: 10&lt;/li&gt;
+&lt;li&gt;Pin pitch: .050 in.&lt;/li&gt;
+&lt;li&gt;Area: .315 in. x 11.6 in.&lt;/li&gt;
 &lt;/ul&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=https://www.mouser.com/ds/2/315/ADI8000CE2-951329.pdf&gt;Datasheet referenced for footprint&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;a href=https://cdn.sparkfun.com/assets/2/c/9/d/8/Grid-EYE_Datasheet.pdf&gt;Datasheet referenced for footprint&lt;/a&gt;&lt;/p&gt;</description>
 <wire x1="5.8" y1="-4" x2="-5.8" y2="-4" width="0.127" layer="51"/>
 <wire x1="-5.8" y1="-4" x2="-5.8" y2="4" width="0.127" layer="51"/>
 <wire x1="-5.8" y1="4" x2="5.8" y2="4" width="0.127" layer="51"/>
@@ -28675,12 +28675,11 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <wire x1="4.9" y1="-4" x2="3.1" y2="-4" width="0.2032" layer="21"/>
 <wire x1="-6" y1="0" x2="-6" y2="-0.5" width="0.2032" layer="21"/>
 <wire x1="-6" y1="1.4" x2="-6" y2="0.9" width="0.2032" layer="21"/>
+<circle x="-6.1468" y="-4.699" radius="0.127" width="0" layer="21"/>
 </package>
 </packages>
 <symbols>
 <symbol name="AMG88">
-<description>&lt;h3&gt;Panasonic AMG8833 - GRID-EYE - 8*8 array of temperature sensing pixels&lt;/h3&gt;
-&lt;p&gt;Allows for temperature detection of a two dimensional area. Able to measure temperatures between 0 and 80 degrees Celsius&lt;/p&gt;</description>
 <wire x1="-7.62" y1="5.08" x2="-7.62" y2="-10.16" width="0.254" layer="94"/>
 <wire x1="-7.62" y1="-10.16" x2="10.16" y2="-10.16" width="0.254" layer="94"/>
 <wire x1="10.16" y1="-10.16" x2="10.16" y2="5.08" width="0.254" layer="94"/>
@@ -28700,8 +28699,8 @@ You are welcome to use this library for commercial purposes. For attribution, we
 </symbols>
 <devicesets>
 <deviceset name="GRIDEYE" prefix="U">
-<description>&lt;h3&gt;Panasonic AMG8833 - GRID-EYE - 8*8 array of temperature sensing pixels&lt;/h3&gt;
-&lt;p&gt;Allows for temperature detection of a two dimensional area. Able to measure temperatures between 0 and 80 degrees Celsius&lt;/p&gt;</description>
+<description>&lt;h3&gt;Panasonic AMG8833 GRIDEye&lt;/h3&gt;
+This 8x8 thermopile infrared sensor array allows for a low resolution thermal camera.</description>
 <gates>
 <gate name="U1" symbol="AMG88" x="0" y="0"/>
 </gates>
@@ -28793,11 +28792,12 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <wire x1="0" y1="78.74" x2="96.52" y2="78.74" width="0.1524" layer="97" style="longdash"/>
 <wire x1="96.52" y1="78.74" x2="96.52" y2="0" width="0.1524" layer="97" style="longdash"/>
 <wire x1="96.52" y1="78.74" x2="248.92" y2="78.74" width="0.1524" layer="97" style="longdash"/>
-<text x="106.68" y="160.02" size="1.778" layer="97">GRIDEye</text>
+<text x="106.68" y="149.86" size="1.778" layer="97">GRIDEye</text>
 <text x="139.7" y="149.86" size="1.778" layer="97">Clear solder jumper JP7 
 to disconnect I2C pullups</text>
 <text x="33.02" y="68.58" size="1.778" layer="97">Qwiic/I2C Connections</text>
 <text x="174.498" y="6.858" size="2.54" layer="94">A. England</text>
+<text x="106.68" y="147.32" size="1.27" layer="97">3.0V-3.6V</text>
 </plain>
 <instances>
 <instance part="GND1" gate="1" x="99.06" y="114.3"/>
