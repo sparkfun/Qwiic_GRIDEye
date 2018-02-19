@@ -28675,7 +28675,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <wire x1="4.9" y1="-4" x2="3.1" y2="-4" width="0.2032" layer="21"/>
 <wire x1="-6" y1="0" x2="-6" y2="-0.5" width="0.2032" layer="21"/>
 <wire x1="-6" y1="1.4" x2="-6" y2="0.9" width="0.2032" layer="21"/>
-<circle x="-6.1468" y="-4.699" radius="0.127" width="0" layer="21"/>
+<circle x="-6.4008" y="-4.826" radius="0.254" width="0" layer="21"/>
 </package>
 </packages>
 <symbols>
@@ -28797,7 +28797,7 @@ This 8x8 thermopile infrared sensor array allows for a low resolution thermal ca
 to disconnect I2C pullups</text>
 <text x="33.02" y="68.58" size="1.778" layer="97">Qwiic/I2C Connections</text>
 <text x="174.498" y="6.858" size="2.54" layer="94">A. England</text>
-<text x="106.68" y="147.32" size="1.27" layer="97">3.0V-3.6V</text>
+<text x="106.68" y="147.32" size="1.27" layer="97">VCC Range: 3.0V-3.6V</text>
 </plain>
 <instances>
 <instance part="GND1" gate="1" x="99.06" y="114.3"/>
