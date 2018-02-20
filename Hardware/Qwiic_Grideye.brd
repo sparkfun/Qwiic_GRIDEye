@@ -165,8 +165,8 @@
 <text x="15.24" y="2.54" size="1.016" layer="21" font="vector" ratio="15" rot="R90" align="center-left">SCL</text>
 <text x="7.62" y="2.54" size="1.016" layer="21" font="vector" ratio="15" rot="R90" align="center-left">GND</text>
 <text x="22.86" y="6.477" size="1.016" layer="22" font="vector" ratio="15" rot="MR0">ADDR
-Open-0x3B
-Close-0x3A</text>
+Open-0x69
+Close-0x68</text>
 <text x="10.16" y="2.54" size="1.016" layer="22" font="vector" ratio="15" rot="MR90" align="center-left">3.3V</text>
 <text x="12.7" y="2.54" size="1.016" layer="22" font="vector" ratio="15" rot="MR90" align="center-left">SDA</text>
 <text x="15.24" y="2.54" size="1.016" layer="22" font="vector" ratio="15" rot="MR90" align="center-left">SCL</text>

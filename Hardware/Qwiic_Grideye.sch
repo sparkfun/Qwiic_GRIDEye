@@ -28785,8 +28785,8 @@ This 8x8 thermopile infrared sensor array allows for a low resolution thermal ca
 <sheet>
 <plain>
 <text x="160.02" y="111.76" size="1.778" layer="97">7-Bit I2C Address Jumper</text>
-<text x="162.56" y="106.68" size="1.778" layer="97">Closed = 0x3A</text>
-<text x="162.56" y="109.22" size="1.778" layer="97">Open (default) = 0x3B</text>
+<text x="162.56" y="106.68" size="1.778" layer="97">Closed = 0x68</text>
+<text x="162.56" y="109.22" size="1.778" layer="97">Open (default) = 0x69</text>
 <text x="170.434" y="11.43" size="2.54" layer="94">N. Seidle</text>
 <text x="237.744" y="7.366" size="2.54" layer="94">v01</text>
 <wire x1="0" y1="78.74" x2="96.52" y2="78.74" width="0.1524" layer="97" style="longdash"/>
