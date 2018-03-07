@@ -28788,7 +28788,7 @@ This 8x8 thermopile infrared sensor array allows for a low resolution thermal ca
 <text x="162.56" y="106.68" size="1.778" layer="97">Closed = 0x68</text>
 <text x="162.56" y="109.22" size="1.778" layer="97">Open (default) = 0x69</text>
 <text x="170.434" y="11.43" size="2.54" layer="94">N. Seidle</text>
-<text x="237.744" y="7.366" size="2.54" layer="94">v01</text>
+<text x="237.744" y="7.366" size="2.54" layer="94">v10</text>
 <wire x1="0" y1="78.74" x2="96.52" y2="78.74" width="0.1524" layer="97" style="longdash"/>
 <wire x1="96.52" y1="78.74" x2="96.52" y2="0" width="0.1524" layer="97" style="longdash"/>
 <wire x1="96.52" y1="78.74" x2="248.92" y2="78.74" width="0.1524" layer="97" style="longdash"/>
