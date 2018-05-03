@@ -5,9 +5,9 @@ SparkFun Qwiic Panasonic Grid-EYE Infrared Array AMG88xx
 
 [*SparkFun Grid-EYE Infrared Array Breakout - AMG8833 (Qwiic) (SEN-14607)*](https://www.sparkfun.com/products/14607)
 
-The GridEYE from Panasonic is a 8 by 8 thermopile array. This means you have an array of 64 pixels each capable of detecting temperature remotely. It’s like having thermal camera (or Predator’s vision) just in really low resolution. The SparkX Grid-EYE Qwiic carrier board utilizes the high performance, high gain 3.3V AMG88 sensor. Do not hook 5V to this beast! Better yet, use the Qwiic system - it makes it much easier and quicker to get started.
+The GridEYE from Panasonic is a 8 by 8 thermopile array. This means you have an array of 64 pixels each capable of detecting temperature remotely. It’s like having thermal camera (or Predator’s vision) just in really low resolution. The SparkFun Grid-EYE Qwiic carrier board utilizes the high performance, high gain 3.3V AMG88 sensor. Do not hook 5V to this beast! Better yet, use the Qwiic system - it makes it much easier and quicker to get started.
 
-The SparkX carrier board incorporates all the needed passive components as well as a jumper to change the I2C address and a jumper to remove the pull up resistors if needed.
+The SparkFun carrier board incorporates all the needed passive components as well as a jumper to change the I2C address and a jumper to remove the pull up resistors if needed.
 
 Repository Contents
 -------------------
