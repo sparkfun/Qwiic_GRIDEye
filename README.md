@@ -18,7 +18,7 @@ Repository Contents
 Documentation
 --------------
 * **[Arduino Library](https://github.com/sparkfun/SparkFun_GridEYE_Arduino_Library)** - Library for reading the sensor and outputing fun graphics over the serial port
-* **[Hookup Guide](https://learn.sparkfun.com/tutorials/qwiic-grid-eye-infrared-array-hookup-guide)** - Basic hookup guide for the Qwiic GRID-Eye Infrared Array.
+* **[Hookup Guide](https://learn.sparkfun.com/tutorials/qwiic-grid-eye-infrared-array-amg88xx-hookup-guide)** - Basic hookup guide for the Qwiic GRID-Eye Infrared Array.
 
 Product Versions
 ----------------
