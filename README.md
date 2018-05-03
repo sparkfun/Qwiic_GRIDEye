@@ -15,9 +15,15 @@ Repository Contents
 * **/Documents** - Datasheets
 * **/Hardware** - Eagle design files (.brd, .sch)
 
-Library
+Documentation
 --------------
 * **[Arduino Library](https://github.com/sparkfun/SparkFun_GridEYE_Arduino_Library)** - Library for reading the sensor and outputing fun graphics over the serial port
+* **[Hookup Guide](https://learn.sparkfun.com/tutorials/qwiic-grid-eye-infrared-array-hookup-guide)** - Basic hookup guide for the Qwiic GRID-Eye Infrared Array.
+
+Product Versions
+----------------
+* [SEN-14607](https://www.sparkfun.com/products/14607)- SparkFun breakout board for Grid-EYE AMG8833
+* [SPX-14568] (https://www.sparkfun.com/products/14568)- SparkX breakout board for Grid-EYE AMG8833
 
 License Information
 -------------------
