@@ -23,7 +23,7 @@ Documentation
 Product Versions
 ----------------
 * [SEN-14607](https://www.sparkfun.com/products/14607)- SparkFun breakout board for Grid-EYE AMG8833
-* [SPX-14568] (https://www.sparkfun.com/products/14568)- SparkX breakout board for Grid-EYE AMG8833
+* [SPX-14568](https://www.sparkfun.com/products/14568)- SparkX breakout board for Grid-EYE AMG8833
 
 License Information
 -------------------
